@@ -3,8 +3,8 @@
 ## Objectif
 
 Vous êtes en charge de la réalisation d'un algorithme d'analyse d'une étude marketing sur l'emballage d'un nouveau yaourt bio issu de circuits courts. 
-Vous recevez les résultats d'une étude où des consommateurs indiquent la couleur qu'ils préfèrent pour l'emballage. 
-Ne voulant prendre seul une décision aussi importante, vous décidez de présenter les 2 couleurs les plus demandées à votre client.
+Vous recevez à ce titre les résultats d'une étude où des consommateurs indiquent la couleur qu'ils préfèrent pour l'emballage. 
+Vous décidez de présenter les 2 couleurs les plus demandées à votre client.
 
 ## Consignes 
 Démarrez à partir du fichier correspondant à votre langage de programmation (yaourts.php pour PHP, yaourts.js pour Javascript ....).
