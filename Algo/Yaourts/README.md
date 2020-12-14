@@ -16,7 +16,7 @@ Vous pouvez créer des méthodes privées supplémentaires si nécessaire.
 
 ### Entrée
 
-**colors** : 
+**Colors** : 
 Un tableau indexé contenant entre 500 et 5000 entrées. 
 Chaque élément du tableau correspond à la couleur choisie par une personne interrogée.
 Ces éléments du tableau sont générés aléatoirement à chaque appel de votre algorithme.
